@@ -1,0 +1,10 @@
+"Not Valid Answer, Try Again"
+
+Enter (1) to guess by Name, (2) to guess by Features, or (3) to see the list of Mystery characters!
+Choose a name from the list:
+Select one of the features by entering:
+1 - Hair, 2 - HairLength, 3 - Glasses, 4 - Cover, 5 - Beard
+Enter (true) if you think the mystery person has
+ or (false) if you think they do not.
+What is the hair length:
+ 1 - Short, 2 - Medium, 3 - Long, 4 - Bald
